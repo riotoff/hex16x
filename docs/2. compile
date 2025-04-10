@@ -1,3 +1,3 @@
-Use this command in main directory of hex16x to compile hex16x:
+Use this command in main directory of hex16x to compile:
 " sh builder.sh "
 Everything will be compiled without your participation.
