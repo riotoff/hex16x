@@ -1,0 +1,3 @@
+Use any emulator or virtual machine that supports img format to load hex16x.
+For example, use QEMU with this command (in main directory):
+" qemu-system-x86_64 -drive file=build/hex16x.img,format=raw,if=floppy "
