@@ -1,0 +1,8 @@
+%include "src/kernel/cmds/clear.asm"
+%include "src/kernel/cmds/exit.asm"
+%include "src/kernel/cmds/help.asm"
+%include "src/kernel/cmds/lfetch.asm"
+%include "src/kernel/cmds/panic.asm"
+%include "src/kernel/cmds/ls.asm"
+%include "src/kernel/cmds/cat.asm"
+%include "src/kernel/cmds/rm.asm"
